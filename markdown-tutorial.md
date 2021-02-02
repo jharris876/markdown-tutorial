@@ -80,9 +80,9 @@ There are two easy methods for including segments of code in a Markdown document
 
 ` javac *.java `
 
-For a longer segment of code, create a fenced code block by placing triple backticks ````` above and below the code segment.
+For a longer segment of code, create a fenced code block by placing triple backticks \`\`\` above and below the code segment.
 
-You can specify the language used by adding it after the first set of backticks: ````java`
+You can specify the language used by adding it after the first set of backticks: \`\`\`java
 
 ```java
 class HelloWorld
