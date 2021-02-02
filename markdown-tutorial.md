@@ -76,7 +76,7 @@ Lists can also be nested by indenting items in sublists by four spaces.
 
 ## Code
 
-There are two easy methods for including segments of code in a Markdown document. For a single line of code, surround the line of text with backticks `` `. This is also useful for command line snippets or other text meant to be copied and pasted.
+There are two easy methods for including segments of code in a Markdown document. For a single line of code, surround the line of text with backticks `. This is also useful for command line snippets or other text meant to be copied and pasted.
 
 ` javac *.java `
 
